@@ -1,3 +1,4 @@
+import React from "react";
 import { useState } from "react";
 import { createTask, addTaskToPerson, useLiveQuery } from "../db/pouch.js";
 import type { TaskDoc, PersonDoc } from "../db/types";

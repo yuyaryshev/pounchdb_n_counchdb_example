@@ -1,3 +1,5 @@
+import React from "react";
+
 import { Persons } from "./components/Persons.js";
 import { Tasks } from "./components/Tasks.js";
 
